@@ -8,3 +8,5 @@ This chatbot answers frequently asked questions using a predefined dataset and t
 ## Setup Instructions
 1. Install dependencies: `pip install -r requirements.txt`
 2. Run the chatbot: `streamlit run chatbot.py`
+
+## Link to the app: https://faq-chatbot-hvkjb2qcgdkegkhdzo9wht.streamlit.app/
