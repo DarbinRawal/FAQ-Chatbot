@@ -1,3 +1,5 @@
 streamlit
 openai
 pandas
+fuzzywuzzy
+python-levenshtein  # Required by fuzzywuzzy for optimal performance
